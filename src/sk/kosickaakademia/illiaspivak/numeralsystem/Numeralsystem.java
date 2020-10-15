@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Numeralsystem {
 
     public static void main(String[] args) {
+
         Scanner sc = new Scanner(System.in);
         int number;
         do {
@@ -28,5 +29,9 @@ public class Numeralsystem {
 
         }
         System.out.println("Result: "+result);
+
+
+
+
     }
 }
